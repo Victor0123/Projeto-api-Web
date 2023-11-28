@@ -4,3 +4,4 @@
 
 - [ ] Token JWT
 - [ ] Docker File
+- [ ] env para S3 e DB
