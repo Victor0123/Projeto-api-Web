@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto api Web", "Projeto api Web\Projeto api Web.csproj", "{50D8C812-F004-45ED-B5E2-DBFEA57AB17C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoApiWeb", "ProjetoApiWeb\ProjetoApiWeb.csproj", "{50D8C812-F004-45ED-B5E2-DBFEA57AB17C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
