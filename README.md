@@ -3,5 +3,5 @@
 ### To Do List
 
 - [ ] Token JWT
-- [ ] Docker File
+- [X] Docker File
 - [ ] env para S3 e DB
